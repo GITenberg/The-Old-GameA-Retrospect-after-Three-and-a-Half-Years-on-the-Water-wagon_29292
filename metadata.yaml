@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '5660'
     url: http://www.gutenberg.org/2009/agents/5660
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29292#The-Old-GameA-Retrospect-after-Three-and-a-Half-Years-on-the-Water-wagon
 gutenberg_issued: '2009-07-02'
 gutenberg_type: Text
 identifiers:
